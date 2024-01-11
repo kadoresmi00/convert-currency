@@ -1,0 +1,40 @@
+{
+  "name": "@kadoresmi00/convert-currency",
+  "version": "1.0.0",
+  "description": "Convert currency with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "currency",
+    "convert",
+    "usd-to-try",
+    "try-to-usd",
+    "usd-to-eur",
+    "eur-to-usd",
+    "eur-to-try",
+    "try-to-eur",
+    "usd-to-gbp",
+    "gbp-to-usd",
+    "gbp-to-try",
+    "try-to-gbp",
+    "usd-to-chf",
+    "chf-to-usd",
+    "chf-to-try",
+    "try-to-chf",
+    "usd-to-cad",
+    "cad-to-usd",
+    "cad-to-try"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadoresmi00/convert-currency.git"
+  },
+  "author": "kadoresmi00",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "node-fetch": "^2.6.7"
+  }
+}
