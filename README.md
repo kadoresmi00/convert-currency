@@ -69,4 +69,4 @@ convertCurrency('USD', 'TRY', 100);
 
 
 ## NPM
-[Link](https://www.npmjs.com/package/@kadoresmi00/turkey-cities-counties)
+[Link](https://www.npmjs.com/package/@kadoresmi00/convert-currency)
