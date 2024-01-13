@@ -1,4 +1,4 @@
-const {convertCurrency, getExchangeRate} = require('@kadoresmi00/convert-currency');
+const {convertCurrency, getExchangeRate} = require('convert-currency');
 
 (async  () => {
     try {
